@@ -1,5 +1,5 @@
 console.log('Loaded!');
-var img =document.getElementById('k1');
+var img =document.getElementById('k');
 var marginLeft=0;
 function moveRight(){
     marginLeft=marginLeft +50;
